@@ -1,6 +1,6 @@
 let bannerList = [
     {
-        imgUrl: "https://cms-contents.pharmeasy.in/banner/93051e0bc77-MEGA20_App.jpg",
+        imgUrl: "https://i.imghippo.com/files/IMYp9695pg.png",
     },
     {
         imgUrl: "https://cms-contents.pharmeasy.in/banner/dc5281c821e-GRAND1000_App.jpg",
@@ -246,32 +246,7 @@ let featuredBrandList = [
         imgUrl: "https://cms-contents.pharmeasy.in/carousel_item/40facc7fa28-Pharmeasy-App.jpg?dim=1024x0",
     },
 ];
-let featuredBrandOfferList = [
-    {
-        imgUrl: "https://cdn01.pharmeasy.in/dam/banner/banner/a9ce64845df-TRENDING_DEALS.jpg?dim=1440x0",
-    },
-    {
-        imgUrl: "https://cdn01.pharmeasy.in/dam/banner/banner/9fe349e885e-WEIGHING_MACHINE.jpg?dim=1440x0",
-    },
-    {
-        imgUrl: "https://cdn01.pharmeasy.in/dam/banner/banner/414524ad3dd-SNACK.jpg?dim=1440x0",
-    },
-    {
-        imgUrl: "https://cdn01.pharmeasy.in/dam/banner/banner/fcbf95577c3-VELCRO.jpg?dim=1440x0",
-    },
-    {
-        imgUrl: "https://cdn01.pharmeasy.in/dam/banner/banner/a9ad640ce01-4.jpg?dim=1440x0",
-    },
-    {
-        imgUrl: "https://cdn01.pharmeasy.in/dam/banner/banner/a6f2ed93479-BACK_SUPPORT.jpg?dim=1024x0",
-    },
-    {
-        imgUrl: "https://cdn01.pharmeasy.in/dam/banner/banner/93ef9d6df4f-SLIPPERS.jpg?dim=1024x0",
-    },
-    {
-        imgUrl: "https://cdn01.pharmeasy.in/dam/banner/banner/6e16a38ea89-ORTHO_PEDOC.jpg?dim=1024x0",
-    },
-];
+
 
 let dealsOfTheDayList = [
     {
